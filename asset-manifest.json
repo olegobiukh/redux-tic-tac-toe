@@ -1,14 +1,13 @@
 {
-  "main.css": "/redux-tic-tac-toe/static/css/main.b2afe20e.chunk.css",
-  "main.js": "/redux-tic-tac-toe/static/js/main.02feace8.chunk.js",
-  "main.js.map": "/redux-tic-tac-toe/static/js/main.02feace8.chunk.js.map",
+  "main.css": "/redux-tic-tac-toe/static/css/main.44477737.chunk.css",
+  "main.js": "/redux-tic-tac-toe/static/js/main.71fb5ae4.chunk.js",
+  "main.js.map": "/redux-tic-tac-toe/static/js/main.71fb5ae4.chunk.js.map",
   "runtime~main.js": "/redux-tic-tac-toe/static/js/runtime~main.8464f07e.js",
   "runtime~main.js.map": "/redux-tic-tac-toe/static/js/runtime~main.8464f07e.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/redux-tic-tac-toe/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/redux-tic-tac-toe/static/js/2.6efc73d3.chunk.js.map",
+  "static/js/2.18f72db2.chunk.js": "/redux-tic-tac-toe/static/js/2.18f72db2.chunk.js",
+  "static/js/2.18f72db2.chunk.js.map": "/redux-tic-tac-toe/static/js/2.18f72db2.chunk.js.map",
   "index.html": "/redux-tic-tac-toe/index.html",
-  "precache-manifest.7f2cf30c4dd49da26f027dbb508fffd3.js": "/redux-tic-tac-toe/precache-manifest.7f2cf30c4dd49da26f027dbb508fffd3.js",
+  "precache-manifest.839d25c6a8c73a06081820f3abb571d8.js": "/redux-tic-tac-toe/precache-manifest.839d25c6a8c73a06081820f3abb571d8.js",
   "service-worker.js": "/redux-tic-tac-toe/service-worker.js",
-  "static/css/main.b2afe20e.chunk.css.map": "/redux-tic-tac-toe/static/css/main.b2afe20e.chunk.css.map",
-  "static/media/logo.svg": "/redux-tic-tac-toe/static/media/logo.5d5d9eef.svg"
+  "static/css/main.44477737.chunk.css.map": "/redux-tic-tac-toe/static/css/main.44477737.chunk.css.map"
 }
